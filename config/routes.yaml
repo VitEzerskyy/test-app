@@ -1,0 +1,8 @@
+app:
+    resource: '../src/Controller/Client'
+    type: annotation
+    host: "%main_host%"
+
+api:
+    resource: '../src/Controller/Api'
+    host: "%api_host%"

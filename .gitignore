@@ -1,0 +1,15 @@
+###> symfony/framework-bundle ###
+.DS_Store
+/public/bundles/
+/var/*
+!/var/cache
+!/var/log
+/var/cache/*
+/var/log/*
+/vendor/
+.idea/
+/public/coverage/
+.phpunit
+/phpunit.xml
+source
+supervisord.log
